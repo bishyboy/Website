@@ -12,7 +12,8 @@ Three Personas: [PERSONA TEMPLATE (1).docx](https://github.com/user-attachments/
                 [Sam Owers PERSONA TEMPLATE 2.docx](https://github.com/user-attachments/files/20648593/Sam.Owers.PERSONA.TEMPLATE.2.docx)
                 [Sam Owers PERSONA TEMPLATE.docx](https://github.com/user-attachments/files/20648597/Sam.Owers.PERSONA.TEMPLATE.docx)
 
-Resource Requirements: [requirements.docx](https://github.com/user-attachments/files/20648696/requirements.docx)
+Resource Requirements:[resource_needs.docx](https://github.com/user-attachments/files/20652325/resource_needs.docx)
+
 
 [Agile Gantt chart (colored one) (1) (1).xlsx](https://github.com/user-attachments/files/20651686/Agile.Gantt.chart.colored.one.1.1.xlsx)
 
