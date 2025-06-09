@@ -19,3 +19,7 @@ Resource Requirements:[resource_needs.docx](https://github.com/user-attachments/
 
                                         Gantt Chart created by Sam & Alex
 
+User Acceptance Test
+[User Acceptance Tests.xlsx](https://github.com/user-attachments/files/20652414/User.Acceptance.Tests.xlsx)
+
+
